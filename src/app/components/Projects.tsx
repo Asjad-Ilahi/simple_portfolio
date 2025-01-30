@@ -4,7 +4,7 @@ import { motion } from "framer-motion"
 import { useState } from "react"
 import Image from "next/image"
 import Link from "next/link"
-import { FaPalette, FaMobile, FaGlobe, FaReact, FaNodeJs, FaVuejs, FaSwift, FaFigma, FaWordpress } from "react-icons/fa"
+import { FaPalette, FaMobile, FaGlobe, FaReact, FaNodeJs, FaFigma, FaWordpress } from "react-icons/fa"
 import { SiNextdotjs, SiFlutter } from "react-icons/si"
 
 const projectsData = {

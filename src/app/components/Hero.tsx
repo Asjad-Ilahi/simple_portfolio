@@ -18,10 +18,10 @@ const Hero = () => {
                         className="lg:w-1/2 text-center lg:text-left"
                     >
                         <h1 className="text-4xl lg:text-6xl font-bold mb-6 bg-clip-text text-transparent bg-gradient-to-r from-blue-500 to-purple-500">
-                            Hi, I'm <span className="text-blue-600 dark:text-blue-400">Asjad Ilahi</span>
+                            Hi&rsquo; I&apos;m <span className="text-blue-600 dark:text-blue-400">Asjad Ilahi</span>
                         </h1>
                         <div className="text-xl lg:text-2xl mb-6">
-                            I'm a{" "}
+                            I&apos;m a{" "}
                             <TypeAnimation
                                 sequence={["Web Developer", 2000, "UI/UX Designer", 2000, "Mobile App Developer", 2000]}
                                 wrapper="span"

@@ -21,7 +21,7 @@ const skills = [
 const Skills = () => {
   const controls = useAnimation();
   const [windowWidth, setWindowWidth] = useState(1200);
-  const [hoveredSkill, setHoveredSkill] = useState(null);
+  const [_hoveredSkill, _setHoveredSkill] = useState(null);
 
   useEffect(() => {
     setWindowWidth(window.innerWidth);
